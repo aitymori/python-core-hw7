@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Clean-folder-aitymori
+Version: 0.0.1
+Summary: Script for sorting files in folder
+Home-page: https://github.com/aitymori/python-core-hw7
+Author: Anastasiia Kholodko
+Author-email: anakholodko@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

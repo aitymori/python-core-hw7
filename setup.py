@@ -1,7 +1,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name = 'Clean folder',
+    name = 'Clean folder aitymori',
     version = '0.0.1',
     description = 'Script for sorting files in folder',
     author = 'Anastasiia Kholodko',
@@ -14,10 +14,8 @@ setup(
         "Operating System :: OS Independent"
         ],
     packages = find_namespace_packages(),
-    # data_files = [],
-    # include_package_data = True,
     entry_points = {'console_scripts': [
-        'clean-folder=clean_folder.clean:main'
+        'clean-folder=clean_folder_aitymori.clean:main'
     ]}
 
 )
